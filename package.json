@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.2.2"
+    "@astrojs/netlify": "^2.2.2",
+    "astro": "^2.2.2",
+    "es-module-lexer": "^1.2.1"
   }
 }
